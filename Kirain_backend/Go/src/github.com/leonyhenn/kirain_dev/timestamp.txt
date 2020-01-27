@@ -1,0 +1,35 @@
+2019-01-18 19:15 Sat start
+2019-01-18 21:15 Sat end
+------------- 2019-01-18 total 2 hr-------------
+
+2019-01-19 10:19 Sun start
+2019-01-19 12:19 Sun 打卡
+2019-01-19 13:09 Sun 打卡
+2019-01-19 14:39 Sun 打卡, Learn Go Programming - Golang Tutorial for Beginners 03:15:00
+2019-01-19 15:09 Sun 打卡, Learn Go Programming - Golang Tutorial for Beginners 03:40:00
+2019-01-19 15:32 Sun 打卡, Learn Go Programming - Golang Tutorial for Beginners 04:00:05
+2019-01-20 20:05 Sun 开会
+2019-01-20 20:30 Sun 结束
+------------- 2019-01-19 total 7hr36min -------------
+
+2019-01-20 9:43 Mon start
+2019-01-20 10:53 Mon 打卡
+2019-01-20 11:00 Mon 暂停
+2019-01-20 13:30 Mon 准备Yitao Hu面试
+2019-01-20 14:00 Mon 去Yitao Hu面试
+2019-01-20 16:30 Mon 结束Yitao Hu面试
+
+------------- 2019-01-20 total 11hr53min -------------
+
+2019-01-23 8:52 Fri start
+2019-01-23 11:32 Fri 打卡
+2019-01-23 18:27 Fri end
+
+------------- 2019-01-23 total 21hr23min -------------
+
+2019-01-24 09:43 Sat start
+2019-01-24 11:31 Sat 打卡
+2019-01-24 18:51 Sat end
+
+------------- 2019-01-24 total 30hr31min -------------
+2019-01-24 11:42 Sun start
