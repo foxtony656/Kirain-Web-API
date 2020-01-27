@@ -1,0 +1,41 @@
+@keyframes flipInY {
+    from {
+        transform: perspective(400px) rotate3d(0, 1, 0, 40deg);
+        animation-timing-function: ease-in;
+        opacity: 0;
+    }
+
+    40% {
+        transform: perspective(400px) rotate3d(0, 1, 0, -20deg);
+        animation-timing-function: ease-in;
+    }
+
+    60% {
+        transform: perspective(400px) rotate3d(0, 1, 0, 10deg);
+        opacity: 1;
+    }
+
+    80% {
+        transform: perspective(400px) rotate3d(0, 1, 0, -5deg);
+    }
+
+    to {
+        transform: perspective(400px);
+    }
+}
+
+.flipInY {
+    animation: flipInY 500ms ease-out;
+}
+
+/*.c {*/
+/*    position: absolute;*/
+/*    top: 0;*/
+/*    width: 100%;*/
+/*    max-width: 500px;*/
+/*    max-height: 500px;*/
+/*    cursor: pointer;*/
+/*    will-change: transform, opacity;*/
+/*}*/
+
+
